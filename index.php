@@ -51,7 +51,7 @@
             </figure>
       </div>
 
-      <p class="tit">La tranquilidad de contar con nuextra experiencia</p>
+      <p class="tit">La tranquilidad de contar con nuestra experiencia</p>
       <center style="margin-top: 3%;">
         <a data-scroll href="#CONTACTO" aria-pressed="true"><button class="btn btn-lg btn-secondary"><i class="fas fa-phone-volume"></i> CONTADORES PUBLICOS Y ABOGADOS</button></a>
       </center>
@@ -67,7 +67,7 @@
 <section class="seccion2" id="NOSOTROS" style="padding: 5% 0% 5% 0%;">
   <div class="container">
     <div class="row">
-      <h1 class="text-center" style="color: #1D1D3C;"><i class="fas fa-user-tie"></i> Quines somos. Un poco sobre nosotros</h1> <br><br>
+      <h1 class="text-center" style="color: #1D1D3C;"><i class="fas fa-user-tie"></i> Quienes somos. Un poco sobre nosotros</h1> <br><br>
       <p class="texto">Iniciamos ofreciendo consultorías fiscales, fuimos agregando servicios y personal hasta el día de hoy donde hemos atendido a un sin fin de empresas. <br><br>
 
       Con experiencia, seguimos con el compromiso intacto de garantizar a nuestros clientes servicios de excelencia siempre con los más altos estándares de calidad que rigen nuestra profesión.<br><br>
