@@ -49,10 +49,15 @@
             <figure class="logo pull-right">
               <img src="img/fcr.png" alt="FCR" class="img-responsive">
             </figure>
+
+            <div class="openclose">
+              <i class="fa fa-bars open" aria-hidden="true"></i>
+              <i class="fa fa-times close" aria-hidden="true"></i>
+            </div>  
       </div>
 
       <p class="tit">La tranquilidad de contar con nuestra experiencia</p>
-      <center style="margin-top: 3%;">
+      <center class="center-cont" style="margin-top: 3%;">
         <a data-scroll href="#CONTACTO" aria-pressed="true"><button class="btn btn-lg btn-secondary"><i class="fas fa-phone-volume"></i> CONTADORES PUBLICOS Y ABOGADOS</button></a>
       </center>
     </div>
@@ -67,7 +72,7 @@
 <section class="seccion2" id="NOSOTROS" style="padding: 5% 0% 5% 0%;">
   <div class="container">
     <div class="row">
-      <h1 class="text-center" style="color: #1D1D3C;"><i class="fas fa-user-tie"></i> Quienes somos. Un poco sobre nosotros</h1> <br><br>
+      <h1 class="text-center tit-h1" style="color: #1D1D3C;"><i class="fas fa-user-tie"></i> Quienes somos. Un poco sobre nosotros</h1> <br class="delete-br"><br class="delete-br">
       <p class="texto">Iniciamos ofreciendo consultorías fiscales, fuimos agregando servicios y personal hasta el día de hoy donde hemos atendido a un sin fin de empresas. <br><br>
 
       Con experiencia, seguimos con el compromiso intacto de garantizar a nuestros clientes servicios de excelencia siempre con los más altos estándares de calidad que rigen nuestra profesión.<br><br>
@@ -75,45 +80,45 @@
       Logramos tranquilidad y confianza para nuestros clientes, empleando las técnicas que les permitan enfocar sus energías en el crecimiento y proyección de su negocio.<br><br>
 
       Generamos soluciones integrales bajo los siguientes valores:</p>
-    </div> <br><br> 
+    </div> <br><br class="delete-br"> 
 
 
         <div class="row">
-          <div class="col-md-3 uno">
+          <div class="col-sm-6 col-md-3 uno">
             <div class="icono">
               <span class="fa-stack fa-4x i">
                 <i class="fas fa-circle fa-stack-2x ii"></i>
                 <i class="fas fa-balance-scale fa-stack-1x fa-inverse iii"></i>
               </span>
             </div>
-            <h2 class="text-center">Ética</h2>
+            <h2 class="text-center tit-ehcf">Ética</h2>
           </div>
-          <div class="col-md-3 uno">
+          <div class="col-sm-6 col-md-3 uno">
             <div class="icono">
               <span class="fa-stack fa-4x i">
                 <i class="fas fa-circle fa-stack-2x ii"></i>
                 <i class="fas fa-hands-helping fa-stack-1x fa-inverse iii"></i>
               </span>
             </div>
-            <h2 class="text-center">Honestidad</h2>
+            <h2 class="text-center tit-ehcf">Honestidad</h2>
           </div>
-          <div class="col-md-3 uno">
+          <div class="col-sm-6 col-md-3 uno">
             <div class="icono">
               <span class="fa-stack fa-4x i">
                 <i class="fas fa-circle fa-stack-2x ii"></i>
                 <i class="fas fa-american-sign-language-interpreting fa-stack-1x fa-inverse iii"></i>
               </span>
             </div>
-            <h2 class="text-center">Calidad</h2>
+            <h2 class="text-center tit-ehcf">Calidad</h2>
           </div>
-          <div class="col-md-3 uno">
+          <div class="col-sm-6 col-md-3 uno">
             <div class="icono">
               <span class="fa-stack fa-4x i">
                 <i class="fas fa-circle fa-stack-2x ii"></i>
                 <i class="fas fa-users-cog fa-stack-1x fa-inverse iii"></i>
               </span>
             </div>
-            <h2 class="text-center">Eficiencia</h2>
+            <h2 class="text-center tit-ehcf">Eficiencia</h2>
           </div>
         </div>
   </div>
@@ -124,7 +129,7 @@
 
   <div class="container">
     <div class="row">
-      <h1 class="text-center" style="color: #1D1D3C;"><i class="fas fa-briefcase"></i> Servicios</h1> <br><br>
+      <h1 class="text-center tit-s" style="color: #1D1D3C;"><i class="fas fa-briefcase"></i> Servicios</h1> <br class="delete-br"><br class="delete-br">
       <p class="texto"></p>
     </div> 
 
@@ -144,8 +149,8 @@
 
           <div class="tab-content">
             <div role="tabpanel" class="tab-pane active" id="FISCAL">
-              <h3>FISCAL</h3>
-              <p><i class="far fa-check-circle"></i> Asesoramiento general en materia fiscal. <br>
+              <h3 class="tit-all">FISCAL</h3>
+              <p class="txt-all"><i class="far fa-check-circle"></i> Asesoramiento general en materia fiscal. <br>
 
                 <i class="far fa-check-circle"></i> Declaraciones de IVA y Resumen Anual.<br>
 
@@ -172,8 +177,8 @@
               <p>2Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus eos, iure voluptates nam mollitia deleniti error fuga nobis soluta laudantium velit corrupti distinctio labore earum, iusto neque nisi dolores perspiciatis.</p>
             </div> -->
             <div role="tabpanel" class="tab-pane" id="AUDITORIA">
-              <h3>AUDITORIA</h3>
-              <p>
+              <h3 class="tit-all">AUDITORIA</h3>
+              <p class="txt-all">
                 <i class="far fa-check-circle"></i> De estados financieros. <br>
 
                 <i class="far fa-check-circle"></i> Trabajos de atestiguamiento y servicios relacionados.<br>
@@ -196,8 +201,8 @@
               </p>
             </div>
             <div role="tabpanel" class="tab-pane" id="PRECIOS">
-              <h3>PRECIOS DE TRANSFERENCIA</h3>
-              <p>
+              <h3 class="tit-all">PRECIOS DE TRANSFERENCIA</h3>
+              <p class="txt-all">
                 <i class="far fa-check-circle"></i> Estudio de precios de transferencia. <br>
 
                 <i class="far fa-check-circle"></i> Declaración informativa sobre situación fiscal.<br>
@@ -210,8 +215,8 @@
               </p>
             </div>
             <div role="tabpanel" class="tab-pane" id="VALUACION">
-              <h3>VALUACION DE EMPRESAS</h3>
-              <p>
+              <h3 class="tit-all">VALUACION DE EMPRESAS</h3>
+              <p class="txt-all">
                 <i class="far fa-check-circle"></i> Valorar transacciones como las fusiones, adquisiciones, desinversiones, recapitalización y recompra de acciones. <br>
 
                 <i class="far fa-check-circle"></i> Desarrollo de garantías con base en el valor del negocio.<br>
@@ -230,8 +235,8 @@
               </p>
             </div>
             <div role="tabpanel" class="tab-pane" id="CONTABLE">
-              <h3>ASESORIA CONTABLE</h3>
-              <p>
+              <h3 class="tit-all">ASESORIA CONTABLE</h3>
+              <p class="txt-all">
                 <i class="far fa-check-circle"></i> Organización y puesta en marcha de la contabilidad.<br>
 
                 <i class="far fa-check-circle"></i> Gestión diaria de los asientos contables, apertura y cierre de ejercicio.<br>
@@ -256,8 +261,8 @@
               </p>
             </div>
             <div role="tabpanel" class="tab-pane" id="TRABAJO">
-              <h3>ASESORIA DE TRABAJO</h3>
-              <p>
+              <h3 class="tit-all">ASESORIA DE TRABAJO</h3>
+              <p class="txt-all">
                 <i class="far fa-check-circle"></i> Consultas de contenido de trabajo.<br>
                 <i class="far fa-check-circle"></i> Tramitación de nómina y seguro social.<br>
                 <i class="far fa-check-circle"></i> Preparación de contratos de trabajo y gestión de estos antes de la administración.<br>
@@ -297,11 +302,11 @@
 <section class="seccion3" id="CONTACTO" style="padding: 5% 0% 5% 0%;">
   <div class="container">
     <div class="row">
-      <h1 class="text-center" style="color: #1D1D3C;"><i class="fas fa-phone-volume"></i> CONTACTO</h1> <br><br>
+      <h1 class="text-center tit-c" style="color: #1D1D3C;"><i class="fas fa-phone-volume"></i> CONTACTO</h1> <br class="delete-br"><br class="delete-br">
 
 <div class="row">
-<div class="col-sm-4">
-<h3>Datos de la empresa</h3>
+<div class="col-sm-12 col-sm-4 col-md-4">
+<h3 class="tit-de">Datos de la empresa</h3>
 <hr>
 <address>
 <strong>Correo:</strong> <a href="mailto:globalsolutionfcr.com"> info@globalsolutionfcr.com</a><br><br>
@@ -311,24 +316,25 @@
 </address>
 </div>
     
-<div class="col-sm-8 contact-form">
+<div class="col-sm-12 col-sm-8 col-md-8 contact-form">
 <form id="contact" method="post" class="form" role="form">
 <div class="row">
-<div class="col-xs-6 col-md-4 form-group">
-<input class="form-control" id="name" name="name" placeholder="Nombre" type="text" required  />
+<div class="col-xs-12 col-md-4 form-group">
+<input class="form-control" id="txtNOMBRE" name="name" placeholder="Nombre" type="text" required  />
 </div>
-<div class="col-xs-6 col-md-4 form-group">
-<input class="form-control" id="name" name="name" placeholder="Teléfono" type="text" required  />
+<div class="col-xs-12 col-md-4 form-group">
+<input class="form-control" id="txtTELEFONO" name="name" placeholder="Teléfono" type="text" required  />
 </div>
-<div class="col-xs-6 col-md-4 form-group">
-<input class="form-control" id="email" name="email" placeholder="Correo" type="email" required />
+<div class="col-xs-12 col-md-4 form-group">
+<input class="form-control" id="txtCORREO" name="email" placeholder="Correo" type="email" required />
 </div>
 </div>
-<textarea class="form-control" id="message" name="message" placeholder="Comentario" rows="5"></textarea>
+<textarea class="form-control" id="txtCOMENTARIO" name="message" placeholder="Comentario" rows="5"></textarea>
 <br />
 <div class="row">
+  <div id="_AJAX_PRE_"></div>
 <div class="col-xs-12 col-md-12 form-group">
-<button class="btn btn-primary pull-right" type="submit">Enviar</button>
+<button class="btn btn-primary pull-right" type="submit" onclick="sendCORREO()">Enviar</button>
 </form>
 </div>
 </div>
